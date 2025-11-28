@@ -1,4 +1,4 @@
-# GenAI & Ethical AI Website
+<img width="618" height="885" alt="image" src="https://github.com/user-attachments/assets/3753357a-02bb-4913-8175-3fa7954f9d80" /># GenAI & Ethical AI Website
 A simple website created for CSDC100 Pre-Finals.  
 It explains Generative AI, how it works, its ethical use, and includes an analogy article.
 
@@ -20,3 +20,8 @@ Just open **index.html** in your browser.
 ## Author
 Thaniel Xtien N. Deyto  
 CSDC100 Pre-Finals Project
+
+<img width="599" height="904" alt="image" src="https://github.com/user-attachments/assets/460d518b-9d9d-4ac3-be29-0c1ec15bed1e" />
+<img width="917" height="421" alt="image" src="https://github.com/user-attachments/assets/546b32a9-54a6-4ad3-999c-c53648223433" />
+<img width="599" height="904" alt="image" src="https://github.com/user-attachments/assets/64a5731a-151a-4671-8fb8-5148c38f8e48" />
+
